@@ -1,0 +1,3 @@
+D:/Workspace/OneDrive/Woskspace/git/OpenGL_Programming/cmake-build-debug/CMakeFiles/OpenGL_Programming.dir
+D:/Workspace/OneDrive/Woskspace/git/OpenGL_Programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Workspace/OneDrive/Woskspace/git/OpenGL_Programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
